@@ -1,12 +1,12 @@
 # Customer Purchase Behavior Analysis & Prediction
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing customer transactional data to understand **purchasing behavior, product preferences, and repeat sales patterns**. The project combines **Python, SQL, Power BI, and Machine Learning** to transform raw customer data into actionable business insights and predictive outcomes.
 
 The workflow includes data cleaning and preprocessing, exploratory analysis, SQL-based data analysis, interactive Power BI visualization, and a **Random Forest classification model** to predict customer purchasing behavior and support targeted marketing strategies.
 
-## 🎯 Business Objective
+##  Business Objective
 
 The primary objectives of this project are to:
 
@@ -17,7 +17,7 @@ The primary objectives of this project are to:
 * Predict customer purchasing behavior using Machine Learning.
 * Support targeted marketing and customer-retention strategies.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python** – Data cleaning, preprocessing, analysis, and Machine Learning
 * **Pandas & NumPy** – Data manipulation and preprocessing
@@ -26,7 +26,7 @@ The primary objectives of this project are to:
 * **Power BI** – Interactive dashboards and business visualization
 * **Random Forest** – Customer behavior classification
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1. Data Collection & Understanding
 
@@ -90,7 +90,7 @@ Key evaluation measures include:
 
 The model achieved strong evaluation performance, demonstrating its potential for identifying customers with specific purchasing behavior.
 
-## 📊 Key Insights
+##  Key Insights
 
 The analysis helps businesses understand:
 
@@ -100,7 +100,7 @@ The analysis helps businesses understand:
 * Patterns that can be used for customer segmentation.
 * How predictive analytics can support targeted marketing campaigns.
 
-## 🚀 Business Impact
+##  Business Impact
 
 The combination of descriptive analytics and predictive modeling can help businesses:
 
